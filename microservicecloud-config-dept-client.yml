@@ -12,7 +12,7 @@ spring:
   application: 
     name: microservicecloud-config-dept-client
   datasource:
-    type: com.alibaba.druid.pool.DruidDataSourcce
+    type: com.alibaba.druid.pool.DruidDataSource
     driver-class-name: org.gjt.mm.mysql.Driver
     url: jdbc:mysql://192.168.37.128:3306/cloudDB01?useSSL=false
     username: root
@@ -53,7 +53,7 @@ spring:
   application: 
     name: microservicecloud-config-dept-client
   datasource:
-    type: com.alibaba.druid.pool.DruidDataSourcce
+    type: com.alibaba.druid.pool.DruidDataSource
     driver-class-name: org.gjt.mm.mysql.Driver
     url: jdbc:mysql://192.168.37.128:3306/cloudDB02?useSSL=false
     username: root
