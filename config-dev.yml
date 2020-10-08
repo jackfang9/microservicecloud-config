@@ -1,4 +1,4 @@
 config: 
-  config-dev  
+  info: "master,config-dev.yml"  
   
   
