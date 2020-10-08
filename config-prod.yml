@@ -1,2 +1,2 @@
 config: 
-  config-prod
+  info: "master,config-prod.yml"  
